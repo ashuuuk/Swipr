@@ -1,0 +1,21 @@
+.card{
+
+    width:100%;
+    max-width:420px;
+
+    padding:42px 32px;
+
+    border-radius:32px;
+
+    background:rgba(21,21,24,.72);
+
+    backdrop-filter:blur(28px);
+
+    -webkit-backdrop-filter:blur(28px);
+
+    border:1px solid rgba(255,255,255,.06);
+
+    box-shadow:
+    0 30px 80px rgba(0,0,0,.45);
+
+}
