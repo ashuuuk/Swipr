@@ -1,4 +1,4 @@
-# Swipr 🚀
+# Swipr 
 ### Connect. Discover. Collaborate.
 
 Swipr is a modern, dark-themed social networking web application designed to help people discover connections, build meaningful profiles, and connect with individuals who share similar interests.
@@ -7,7 +7,7 @@ The application focuses on creating a smooth onboarding experience, secure authe
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Swipr aims to make discovering like-minded people easier through a simple and engaging experience.
 
@@ -22,7 +22,7 @@ The project emphasizes:
 - A scalable component-based architecture.
 - Future interest-based discovery and matching.
 
-## ✨ Features
+##  Features
 
 ### 1. Authentication System
 
@@ -93,7 +93,7 @@ Users are free to upload their own profile picture. Google profile pictures are 
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -110,7 +110,7 @@ Users are free to upload their own profile picture. Google profile pictures are 
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 Swipr follows a component-based React architecture to keep the application modular, reusable, and maintainable.
 
@@ -163,7 +163,7 @@ swipr/
 
 ---
 
-## 🔐 Authentication Workflow
+##  Authentication Workflow
 
 The authentication process is built around Firebase Authentication.
 
@@ -213,7 +213,7 @@ Complete Profile / Home
 
 ---
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 Swipr follows a minimal, modern dark-themed design language.
 
@@ -241,7 +241,7 @@ Swipr follows a minimal, modern dark-themed design language.
 
 ---
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 Follow these steps to run Swipr locally.
 
@@ -378,7 +378,7 @@ Planned for:
 
 ---
 
-## 🗺️ Development Roadmap
+## Development Roadmap
 
 Swipr is actively under development.
 
@@ -406,7 +406,7 @@ Swipr is actively under development.
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 
 The long-term vision for Swipr goes beyond authentication and profile creation.
 
@@ -422,7 +422,7 @@ Potential upcoming features include:
 
 ---
 
-## 🔒 Security Considerations
+##  Security Considerations
 
 Security is an important part of the development process.
 
@@ -437,7 +437,7 @@ Planned and recommended practices include:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, suggestions, and feedback are welcome.
 
@@ -467,13 +467,13 @@ git push origin feature/your-feature-name
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Swipr** is an independent project built with the goal of exploring modern frontend development, authentication systems, UI/UX design, and scalable application architecture.
 
 ---
 
-## 📜 License
+##  License
 
 This project is currently under development. A license can be added before public distribution.
 
